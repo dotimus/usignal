@@ -7,6 +7,10 @@ Licensed as mit or apache or lgpl v2+ or gpl v2+
 choose your poison
 what, no bsd, not at the moment, ill think about it.
 
+what, no emit function? why if you can just call the slot...
+
+what makes more sense signal.on_click.emit() or just signal.on_click() ....
+
 Example usage
 
 <pre>
