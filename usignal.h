@@ -1,4 +1,3 @@
-#pragma once
 /*
 mikro signal v 1.0
 
@@ -7,6 +6,7 @@ Licensed as mit or apache or lgpl v2+ or gpl v2+
 choose your poison
 what, no bsd, not at the moment, ill think about it.
 */
+#pragma once
 #ifndef USIGNAL_HPP
 #define USIGNAL_HPP
 
