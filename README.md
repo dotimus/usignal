@@ -3,7 +3,7 @@ mikro signal slot lib in one small header file for c++ 11+
 
 Example usage
 
-
+<pre>
 
 #include <iostream>
 #include <string>
@@ -61,3 +61,4 @@ std::cout << i.get() << std::endl;
 std::cin.get();
 return 0;
 }
+</pre>
