@@ -13,7 +13,7 @@ what makes more sense signal.on_click.emit() or just signal.on_click() ....
 
 Example usage
 
-<pre>
+```c++
 
 #include <iostream>
 #include <string>
@@ -71,4 +71,4 @@ std::cout << i.get() << std::endl;
 std::cin.get();
 return 0;
 }
-</pre>
+```c++
