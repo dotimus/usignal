@@ -7,8 +7,10 @@ choose your poison
 what, no bsd, not at the moment, ill think about it.
 */
 #pragma once
+
 #ifndef USIGNAL_HPP
 #define USIGNAL_HPP
+
 
 #include <memory>
 #include <functional>
