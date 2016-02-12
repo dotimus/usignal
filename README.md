@@ -71,4 +71,3 @@ std::cout << i.get() << std::endl;
 std::cin.get();
 return 0;
 }
-```c++
